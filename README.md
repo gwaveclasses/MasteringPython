@@ -1,12 +1,8 @@
 MasteringPython
 
-+++++++++++++++
-
 https://github.com/gwaveclasses
 
 Topics 
-
-+++++++
 
 --> Introduction To Python 
 
